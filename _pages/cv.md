@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 For a complete CV, please download the [full PDF](../assets/cv.pdf) or view my [LinkedIn profile](https://linkedin.com).
-
+![chamber](/assets/images/20260616_093512.jpg)
 ## Education
 
 - **PhD in Glaciology**, University of Example, 2023–present
